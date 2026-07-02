@@ -63,9 +63,9 @@ content_scripts, ограниченный одним доменом (web.max.ru)
   не отмеченными (расширение ничего из этого не читает и не передаёт).
 - Privacy policy URL: репозиторий уже на GitHub, можно использовать
   готовую ссылку —
-  https://github.com/krolchonok/max-phone-login-fix/blob/main/PRIVACY.md
+  https://github.com/ushst/max-phone-login-fix/blob/main/PRIVACY.md
   (или raw-версию:
-  https://raw.githubusercontent.com/krolchonok/max-phone-login-fix/main/PRIVACY.md)
+  https://raw.githubusercontent.com/ushst/max-phone-login-fix/main/PRIVACY.md)
 
 ## Скриншоты
 `store-assets/screenshot-1.png` — 1280×800, экран с QR-кодом и видимой

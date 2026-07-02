@@ -17,8 +17,9 @@
 4. «Загрузить распакованное расширение» → выберите папку репозитория.
 
 Либо возьмите готовый `max-phone-login-fix.zip` из
-[Releases](../../releases) и распакуйте перед загрузкой (Chrome не
-принимает zip напрямую как unpacked-расширение).
+[Releases](https://github.com/ushst/max-phone-login-fix/releases) и
+распакуйте перед загрузкой (Chrome не принимает zip напрямую как
+unpacked-расширение).
 
 ## Публикация в Chrome Web Store
 
