@@ -61,10 +61,11 @@ content_scripts, ограниченный одним доменом (web.max.ru)
   financial info, authentication info, personal communications,
   location, web history, user activity, website content — оставить
   не отмеченными (расширение ничего из этого не читает и не передаёт).
-- Privacy policy URL: разместите файл `PRIVACY.md` на любом публичном
-  хостинге (например, GitHub Pages, GitHub raw-ссылка или gist) и
-  укажите ссылку в этом поле — Chrome Web Store требует именно URL,
-  файл из архива не подходит.
+- Privacy policy URL: репозиторий уже на GitHub, можно использовать
+  готовую ссылку —
+  https://github.com/krolchonok/max-phone-login-fix/blob/main/PRIVACY.md
+  (или raw-версию:
+  https://raw.githubusercontent.com/krolchonok/max-phone-login-fix/main/PRIVACY.md)
 
 ## Скриншоты
 `store-assets/screenshot-1.png` — 1280×800, экран с QR-кодом и видимой
